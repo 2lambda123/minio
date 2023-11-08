@@ -36,7 +36,7 @@ require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/vault/api v1.0.4
 	github.com/json-iterator/go v1.1.10
-	github.com/klauspost/compress v1.11.12
+	github.com/klauspost/compress v1.16.7
 	github.com/klauspost/cpuid v1.3.1
 	github.com/klauspost/pgzip v1.2.1
 	github.com/klauspost/readahead v1.3.1
@@ -47,7 +47,7 @@ require (
 	github.com/mattn/go-isatty v0.0.10
 	github.com/miekg/dns v1.1.43
 	github.com/minio/cli v1.22.0
-	github.com/minio/highwayhash v1.0.1
+	github.com/minio/highwayhash v1.0.2
 	github.com/minio/minio-go/v7 v7.0.6-0.20200929220449-755b5633803a
 	github.com/minio/selfupdate v0.3.1
 	github.com/minio/sha256-simd v0.1.1
@@ -56,9 +56,9 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mmcloughlin/avo v0.0.0-20200803215136-443f81d77104 // indirect
 	github.com/montanaflynn/stats v0.5.0
-	github.com/nats-io/nats-server/v2 v2.3.4
+	github.com/nats-io/nats-server/v2 v2.9.23
 	github.com/nats-io/nats-streaming-server v0.22.1 // indirect
-	github.com/nats-io/nats.go v1.11.1-0.20210623165838-4b75fc59ae30
+	github.com/nats-io/nats.go v1.28.0
 	github.com/nats-io/stan.go v0.10.0
 	github.com/ncw/directio v1.0.5
 	github.com/nsqio/go-nsq v1.0.7
@@ -80,9 +80,9 @@ require (
 	github.com/willf/bloom v2.0.3+incompatible
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
 	go.etcd.io/etcd/v3 v3.3.0-rc.0.0.20200707003333-58bb8ae09f8e
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/crypto v0.12.0
+	golang.org/x/net v0.10.0
+	golang.org/x/sys v0.11.0
 	google.golang.org/api v0.5.0
 	gopkg.in/jcmturner/gokrb5.v7 v7.3.0
 	gopkg.in/ldap.v3 v3.0.3
