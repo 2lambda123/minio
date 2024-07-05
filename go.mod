@@ -74,7 +74,7 @@ require (
 	github.com/prometheus/procfs v0.12.0
 	github.com/rabbitmq/amqp091-go v1.9.0
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/secure-io/sio-go v0.3.1
 	github.com/shirou/gopsutil/v3 v3.23.9
 	github.com/tidwall/gjson v1.17.0
